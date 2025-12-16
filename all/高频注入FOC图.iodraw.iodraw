@@ -254,6 +254,11 @@
             <mxPoint x="785" y="1179.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&#xa;  &lt;mn&gt;2&lt;/mn&gt;&#xa;  &lt;mi&gt;sin&lt;/mi&gt;&#xa;  &lt;mo data-mjx-texclass=&quot;NONE&quot;&gt;⁡&lt;/mo&gt;&#xa;  &lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&#xa;  &lt;msub&gt;&#xa;    &lt;mi&gt;ω&lt;/mi&gt;&#xa;    &lt;mrow&gt;&#xa;      &lt;mi&gt;h&lt;/mi&gt;&#xa;    &lt;/mrow&gt;&#xa;  &lt;/msub&gt;&#xa;  &lt;mi&gt;t&lt;/mi&gt;&#xa;  &lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&#xa;&lt;/math&gt;" link="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&#xa;  &lt;mn&gt;2&lt;/mn&gt;&#xa;  &lt;mi&gt;sin&lt;/mi&gt;&#xa;  &lt;mo data-mjx-texclass=&quot;NONE&quot;&gt;⁡&lt;/mo&gt;&#xa;  &lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&#xa;  &lt;msub&gt;&#xa;    &lt;mi&gt;ω&lt;/mi&gt;&#xa;    &lt;mrow&gt;&#xa;      &lt;mi&gt;h&lt;/mi&gt;&#xa;    &lt;/mrow&gt;&#xa;  &lt;/msub&gt;&#xa;  &lt;mi&gt;t&lt;/mi&gt;&#xa;  &lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&#xa;&lt;/math&gt;" id="CG8d_zqMhYRQx3ufExmr-140">
+          <mxCell style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+            <mxGeometry x="680" y="1260" width="300" height="210" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
