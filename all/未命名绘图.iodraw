@@ -31,10 +31,10 @@
         <mxCell id="Y_0p4Y03etqpdjysGSrF-568" value="辨识出参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-500" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y_0p4Y03etqpdjysGSrF-569" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Y_0p4Y03etqpdjysGSrF-570" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-310" y="320" as="sourcePoint" />
-            <mxPoint x="-310" y="385" as="targetPoint" />
+            <mxPoint x="-620" y="320" as="sourcePoint" />
+            <mxPoint x="-310" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
