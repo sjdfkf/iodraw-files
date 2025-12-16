@@ -8,7 +8,7 @@
           <mxGeometry x="-670" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y_0p4Y03etqpdjysGSrF-560" value="脉振高频注入改进sogi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="370" width="90" height="90" as="geometry" />
+          <mxGeometry x="-360" y="370" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y_0p4Y03etqpdjysGSrF-563" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -27,6 +27,9 @@
             <mxPoint x="-320" y="310" as="sourcePoint" />
             <mxPoint x="-320" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_0p4Y03etqpdjysGSrF-568" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="348" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
