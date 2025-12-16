@@ -10,6 +10,12 @@
         <mxCell id="Y_0p4Y03etqpdjysGSrF-560" value="脉振高频注入改进sogi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-360" y="380" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Y_0p4Y03etqpdjysGSrF-562" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="570" as="sourcePoint" />
+            <mxPoint x="-440" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
