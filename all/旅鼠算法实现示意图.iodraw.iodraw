@@ -73,13 +73,8 @@
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-61" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1550" y="-130" as="sourcePoint" />
-            <mxPoint x="1600" y="-180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SVc9790pLQC09j2l0Q7H-62" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="SVc9790pLQC09j2l0Q7H-61">
-          <mxGeometry x="-0.6096" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1550.5" y="-179.4999999999991" as="sourcePoint" />
+            <mxPoint x="1600.5" y="-129.4999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
