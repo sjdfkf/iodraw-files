@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y_0p4Y03etqpdjysGSrF-380" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;注入高频余弦电压&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="20" width="200" height="70" as="geometry" />
+        <mxCell id="Y_0p4Y03etqpdjysGSrF-559" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
