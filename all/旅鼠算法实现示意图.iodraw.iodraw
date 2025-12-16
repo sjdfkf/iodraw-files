@@ -79,7 +79,7 @@
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-63" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1230" y="-19.99999999999909" as="sourcePoint" />
+            <mxPoint x="1220" y="-10" as="sourcePoint" />
             <mxPoint x="1180" y="-69.99999999999909" as="targetPoint" />
           </mxGeometry>
         </mxCell>
