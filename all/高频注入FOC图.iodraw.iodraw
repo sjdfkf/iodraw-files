@@ -4,17 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CG8d_zqMhYRQx3ufExmr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CG8d_zqMhYRQx3ufExmr-3" target="CG8d_zqMhYRQx3ufExmr-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CG8d_zqMhYRQx3ufExmr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CG8d_zqMhYRQx3ufExmr-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-3" value="1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CG8d_zqMhYRQx3ufExmr-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="399" y="195" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=west;container=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="310" width="70" height="70" as="geometry" />
+          <mxGeometry x="400" y="175" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="CG8d_zqMhYRQx3ufExmr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -22,10 +21,10 @@
             <mxPoint x="56.875" y="56.875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CG8d_zqMhYRQx3ufExmr-6" value="" style="endArrow=none;html=1;rounded=0;jumpSize=5;" edge="1" parent="1">
+        <mxCell id="CG8d_zqMhYRQx3ufExmr-6" value="" style="endArrow=none;html=1;rounded=0;jumpSize=5;" edge="1" parent="CG8d_zqMhYRQx3ufExmr-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600.005" y="393.755" as="sourcePoint" />
-            <mxPoint x="643.755" y="350.005" as="targetPoint" />
+            <mxPoint x="13.125" y="56.875" as="sourcePoint" />
+            <mxPoint x="56.875" y="13.125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
