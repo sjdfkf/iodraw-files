@@ -17,14 +17,14 @@
         </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410.5" y="225" as="sourcePoint" />
-            <mxPoint x="439.5" y="195" as="targetPoint" />
+            <mxPoint x="408" y="225" as="sourcePoint" />
+            <mxPoint x="437" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410.5" y="195" as="sourcePoint" />
-            <mxPoint x="439.5" y="225" as="targetPoint" />
+            <mxPoint x="408" y="195" as="sourcePoint" />
+            <mxPoint x="437" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
