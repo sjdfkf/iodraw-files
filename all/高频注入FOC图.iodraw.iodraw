@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CG8d_zqMhYRQx3ufExmr-3" value="1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="190" y="130" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CG8d_zqMhYRQx3ufExmr-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="379" y="150" width="70" height="70" as="geometry" />
