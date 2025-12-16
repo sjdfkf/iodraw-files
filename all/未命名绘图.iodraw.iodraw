@@ -10,8 +10,8 @@
         <mxCell id="SVc9790pLQC09j2l0Q7H-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="70" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SVc9790pLQC09j2l0Q7H-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=5;perimeterSpacing=0;labelBorderColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="-10" width="230" height="230" as="geometry" />
+        <mxCell id="SVc9790pLQC09j2l0Q7H-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;perimeterSpacing=0;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="-20" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
