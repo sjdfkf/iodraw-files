@@ -12,8 +12,8 @@
         <mxCell id="CG8d_zqMhYRQx3ufExmr-3" value="1000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CG8d_zqMhYRQx3ufExmr-15" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="160" height="10" as="geometry" />
+        <mxCell id="CG8d_zqMhYRQx3ufExmr-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
