@@ -390,6 +390,9 @@
             <mxPoint x="19.439999999999998" y="1114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CG8d_zqMhYRQx3ufExmr-223" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;text-indent:0cm;mso-char-indent-count:0&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;position:relative;top:3.0pt;mso-text-raise:-3.0pt&quot;&gt;&lt;img width=&quot;42&quot; height=&quot;32&quot; src=&quot;data:image/wmf;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAoCAYAAACxbNkLAAAAAXNSR0ICQMB9xQAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAKNSURBVGje7Vg9UsJAFN4DeACYyVrpAXDDFWBlqB1kh5aCcXbG4QCBjoYDSEdpYU1Da+MNLLyBd1AWSEiyP7y3iTpgiu2yL+/73rfvj0ynU3JO56zA/G9AUjR7lJBPQsgXCfh6OJtdnCygSPJGAiY+rL88XUDRoM4I+TgbQOpMBOvGUbpk7cVJS67KchWgClAFiMxmw4vRaHQlhLgdDFp3YRg+hZSugiB49S2syqYUvKPsZEoApe9NIXsum31Gluk7TEy6YEAPLTpWP1HOawV1c2jrYYwF0md0brKVORaitMLuIBTkDA/I+vBj+sll1ICC0ZyhN29cyE5S36SsKbC2go39vwcg9jGIojoEzDbS6chyEdmYPXybta8KOkYdeIaBLU+GdYAjaeLi96G3XMfJRLNse4yuO1AS4mjE4KGJAAzIR255iWAyYqKGDQGYRAAGhJWbqSuHsKrdD/mLbyIqVW55iWDrlXFMQZYJAnfQLTfTEIiJjh0QPKs6AWnGj8itaHTKkKwTUP5xuwybHMF2E8aE4jEVlyI3zRFkN2EmBW/DCkgzfkQ+Zcgtb8MnwlZAmHZDr1V4Z4rULhCgLFvu0BeVShmJwAkIKzc9XcPTrCm6vm/HCsglN9Xq58EVAaT1fD8ByCa3mM38+/DpiI1gNnPSDSVvtvuqe4cABctNOUBZf17GAKj25PkkICeytrOjA9ru1Sl/Rjenpg5X/UhwGrkMQseFeBQ3ZbQ0MfEgePjesznVC+T+HW0i40wMpk4hdWe3HFEsk3fbBGtOEAWbU2W0zS4XiSEaru5ldA2dZXZvwLEEOWJXK9B7Yv5sL5deU+U7b7VBanLxKOWk5op0Qsp+tVUtGitAFaDfPd9+So/IQTJ4kgAAAABJRU5ErkJggg==&quot;&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1190" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
