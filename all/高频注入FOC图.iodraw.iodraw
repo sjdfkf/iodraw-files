@@ -70,6 +70,9 @@
             <mxPoint x="1369" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CG8d_zqMhYRQx3ufExmr-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
