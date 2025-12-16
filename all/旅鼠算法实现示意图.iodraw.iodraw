@@ -27,9 +27,6 @@
             <mxPoint x="1550" y="-430.95000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVc9790pLQC09j2l0Q7H-76" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SVc9790pLQC09j2l0Q7H-33" target="SVc9790pLQC09j2l0Q7H-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=south;container=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="-561.9" width="340" height="251.9" as="geometry" />
         </mxCell>
