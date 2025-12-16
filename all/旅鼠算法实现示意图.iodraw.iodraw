@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XT_hEbed4v_w2x5l69JT">
-    <mxGraphModel dx="588" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry x="1140" y="-550" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-39" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;永磁同步电机参数识别方程模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="-490" width="400" height="250" as="geometry" />
+          <mxGeometry x="2170" y="-555.95" width="400" height="250" as="geometry" />
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SVc9790pLQC09j2l0Q7H-42" target="SVc9790pLQC09j2l0Q7H-49">
           <mxGeometry relative="1" as="geometry" />
@@ -89,8 +89,8 @@
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-78" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1890" y="-460" as="sourcePoint" />
-            <mxPoint x="2100" y="-460" as="targetPoint" />
+            <mxPoint x="1890" y="-431.19" as="sourcePoint" />
+            <mxPoint x="2100" y="-431.19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SVc9790pLQC09j2l0Q7H-79" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
@@ -103,6 +103,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2100" y="-430" as="sourcePoint" />
             <mxPoint x="2100" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SVc9790pLQC09j2l0Q7H-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="-80" as="sourcePoint" />
+            <mxPoint x="1790" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
