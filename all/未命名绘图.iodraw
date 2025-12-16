@@ -49,8 +49,8 @@
             <mxPoint x="-630.25" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y_0p4Y03etqpdjysGSrF-575" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="Y_0p4Y03etqpdjysGSrF-575" value="输出参数辨识所需要变量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="528" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
