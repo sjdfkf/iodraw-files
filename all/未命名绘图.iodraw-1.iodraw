@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2VHC6htrzz7j8Gw8AV5I-1" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2VHC6htrzz7j8Gw8AV5I-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="2VHC6htrzz7j8Gw8AV5I-2" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="400" as="sourcePoint" />
             <mxPoint x="190" y="350" as="targetPoint" />
