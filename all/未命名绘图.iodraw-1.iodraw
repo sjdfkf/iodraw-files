@@ -322,8 +322,8 @@
         </mxCell>
         <mxCell id="2VHC6htrzz7j8Gw8AV5I-176" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;startSize=0;endSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="820" as="sourcePoint" />
-            <mxPoint x="-140" y="870" as="targetPoint" />
+            <mxPoint x="9.710000000000008" y="770" as="sourcePoint" />
+            <mxPoint x="10" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
