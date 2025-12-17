@@ -45,8 +45,14 @@
         </mxCell>
         <mxCell id="2VHC6htrzz7j8Gw8AV5I-20" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="329.5" as="sourcePoint" />
-            <mxPoint x="310" y="329.5" as="targetPoint" />
+            <mxPoint x="960" y="319.09" as="sourcePoint" />
+            <mxPoint x="1070" y="319.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2VHC6htrzz7j8Gw8AV5I-21" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=horizontal;startSize=0;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="150" as="sourcePoint" />
+            <mxPoint x="520" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
