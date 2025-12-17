@@ -43,6 +43,12 @@
         <mxCell id="2VHC6htrzz7j8Gw8AV5I-18" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;W0&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="720" y="280" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="2VHC6htrzz7j8Gw8AV5I-20" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="329.5" as="sourcePoint" />
+            <mxPoint x="310" y="329.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
