@@ -13,8 +13,11 @@
             <mxPoint x="300" y="319.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2VHC6htrzz7j8Gw8AV5I-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;K&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="340" width="60" height="80" as="geometry" />
+        <mxCell id="2VHC6htrzz7j8Gw8AV5I-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2VHC6htrzz7j8Gw8AV5I-5" value="K" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="388" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
